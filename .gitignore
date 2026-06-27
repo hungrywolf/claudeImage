@@ -1,0 +1,2 @@
+# Local machine config (paths/secrets) — keep .env.example committed instead.
+.env
